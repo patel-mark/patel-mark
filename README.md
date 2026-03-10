@@ -79,25 +79,13 @@ Projects transforming raw data into insights using Python analytics tools and da
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patel-mark&layout=compact&theme=tokyonight)
 
----
-
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patel-mark&theme=tokyonight)
-
----
+![GitHub Streak](https://streak-stats.demolab.com?user=patel-mark&theme=tokyonight)
 
 # 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=patel-mark&theme=tokyonight&no-frame=true)
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
 
 # 👀 Profile Views
 
