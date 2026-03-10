@@ -1,24 +1,120 @@
-# 💫 About Me:
-Hi there 👋, my name is Mark Patel<br>Data science || Data analysis || Machine learning<br>Data Scientist | Python Developer | AI Explorer | Transforming Challenges into Solutions Skills: Python/SQL/Excel<br><br><br><br>🌱 I’m currently learning Machine Learning, Deep Learning, Natural Language Processing, Generative AI, and AWS.<br>👯 I want to collaborate on machine learning and AI projects.
+# 👋 Hi, I'm Mark Patel
 
+### Data Scientist | Python Developer | AI Enthusiast | Data Engineer | Backend Developer (JavaScript) | Data Analyst
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@PatelInData) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pmark2465@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=patel-mark&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=patel-mark)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=patel-mark&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=patel-mark&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=patel-mark&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+> Turning messy data into reliable products — from ML models and analytics to scalable data pipelines and production-ready backends.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=patel-mark&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+- 🔬 Data Scientist focused on **machine learning and predictive systems**
+- ⚙️ Data Engineer building **ETL pipelines and scalable data infrastructure**
+- 🧠 AI Enthusiast exploring **ML, deep learning, and intelligent systems**
+- 📊 Data Analyst turning raw datasets into **actionable insights**
+- 🖥 Backend Developer working in the **JavaScript ecosystem**
+
+💡 I’m motivated by **solving real-world problems and building intelligent systems that turn data into decisions.**
+
+---
+
+# 🛠 Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=postgresql)
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
+![Node](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+
+### JavaScript Ecosystem
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+
+### Data & Analytics
+![Postgres](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced **Data Engineering**
+- Building **scalable pipelines**
+- Data orchestration and infrastructure
+
+---
+
+# 📌 Featured Projects
+
+### ⛽ Predictive Model for Kenyan Fuel Prices
+Machine learning model designed to forecast fuel price trends using historical market data.
+
+### 🤖 AI & Machine Learning Systems
+Experiments and projects exploring predictive modeling, deep learning and intelligent decision systems.
+
+### 📊 Data Analytics & Visualization
+Projects transforming raw data into insights using Python analytics tools and dashboards.
+
+---
+
+# 📈 GitHub Stats
+
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=patel-mark&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patel-mark&layout=compact&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patel-mark&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=patel-mark&theme=tokyonight&no-frame=true)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+# 👀 Profile Views
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=patel-mark.patel-mark)
+
+---
+
+# 🤝 Let's Connect
+
+🌐 Portfolio: https://markpatel.vercel.app/  
+
+💼 LinkedIn: https://www.linkedin.com/in/mark-patel-in-data001/  
+
+🐦 Twitter/X: https://x.com/PatelMark8  
+
+💻 GitHub: https://github.com/patel-mark  
+
+---
+
+⭐ *If you like my work, consider starring a repository!*
