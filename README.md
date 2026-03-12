@@ -4,7 +4,7 @@
 
 > Turning messy data into reliable products — from ML models and analytics to scalable data pipelines and production-ready backends.
 
---
+---
 
 # 🚀 About Me
 
@@ -75,33 +75,38 @@ Projects transforming raw data into insights using Python analytics tools and da
 
 # 📈 GitHub Stats
 
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=patel-mark&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patel-mark&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patel-mark&show_icons=true&theme=tokyonight" alt="Mark's GitHub stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patel-mark&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=patel-mark&theme=tokyonight)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=patel-mark&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 # 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=patel-mark&theme=tokyonight&no-frame=true)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=patel-mark&theme=tokyonight&no-frame=true" alt="GitHub Trophies" />
+</div>
 
 # 👀 Profile Views
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=patel-mark.patel-mark)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=patel-mark.patel-mark" alt="Visitor Badge" />
+</div>
 
 ---
 
 # 🤝 Let's Connect
 
-🌐 Portfolio: https://markpatel.vercel.app/  
-
-💼 LinkedIn: https://www.linkedin.com/in/mark-patel-in-data001/  
-
-🐦 Twitter/X: https://x.com/PatelMark8  
-
-💻 GitHub: https://github.com/patel-mark  
+🌐 **Portfolio:** https://markpatel.vercel.app/  
+💼 **LinkedIn:** https://www.linkedin.com/in/mark-patel-in-data001/  
+🐦 **Twitter/X:** https://x.com/PatelMark8  
+💻 **GitHub:** https://github.com/patel-mark  
 
 ---
 
