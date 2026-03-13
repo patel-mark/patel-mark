@@ -18,22 +18,25 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: Africa/Nairobi
-          
-          # 🎨 Sleek Dark Mode 
           config_theme: dark
           
-          # 📊 Visual Languages Breakdown
+          # 📊 Most Used Languages (Creates a horizontal stacked bar + detailed list)
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: percentage, lines
           plugin_languages_limit: 8
+          
+          # 📈 Coding Habits Bar Charts (Visual bar graphs of what days/times you code)
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 30
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
           
           # 📆 3D Isometric Contributions Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # 📈 Coding Habits Punchcard Graph
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
+          # 🚀 Lines of Code Timeline Graph (Visual chart of code additions/deletions)
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
