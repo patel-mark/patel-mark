@@ -61,15 +61,9 @@ Projects transforming raw data into insights using Python analytics tools and da
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Metrics
 
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=patel-mark&show_icons=true&theme=tokyonight&v=20260313)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patel-mark&layout=compact&theme=tokyonight&v=20260313)
-
-# 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=patel-mark&theme=tokyonight&no-frame=true&v=20260313)
+![Mark's GitHub Metrics](github-metrics.svg)
 
 # 👀 Profile Views
 
